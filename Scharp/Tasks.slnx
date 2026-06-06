@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="1_TwoSum/1_TwoSum.csproj" />
+  <Project Path="9_PalindromeNumber/9_PalindromeNumber.csproj" />
+</Solution>
